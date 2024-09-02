@@ -12,3 +12,6 @@ def feature():
 def main():
     for i in range(10):
         print("God is Love!")
+
+def pay():
+    print("Pay")
