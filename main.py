@@ -13,5 +13,10 @@ def main():
     for i in range(10):
         print("God is Love!")
 
+ 
 def weather():
     print("Weather")
+ 
+def pay():
+    print("Pay")
+ 
